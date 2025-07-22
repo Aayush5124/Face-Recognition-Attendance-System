@@ -72,7 +72,7 @@ Navigate to the project directory:
 
 Bash
 
-cd Face-Recognition-Attendance-System
+cd Attendance-Management-system-using-face-recognition-master
 Ensure necessary directories exist:
 The application will create these automatically on first run or first save, but it's good to be aware:
 
@@ -91,7 +91,7 @@ Usage
 Run the main application:
 
 Bash
-
+cd Attendance-Management-system-using-face-recognition-master
 python attendance.py
 This will open the main GUI window.
 
